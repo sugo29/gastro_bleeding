@@ -1,3 +1,3 @@
 # gastro_bleeding
-This is a repo for reseach paper and model made to predict whether the images captured during wireless capsule endoscopy is bleeding or not. the model is based on CNN architechture. 
-this project was made in a team with my fellow batchmate for the reseach internship. 
+Research Repository: Wireless Capsule Endoscopy Bleeding Detection
+This repository contains the research paper and the accompanying model developed to predict whether images captured during Wireless Capsule Endoscopy (WCE) indicate bleeding. The project leverages a Convolutional Neural Network (CNN) architecture, which is specifically designed for image-based classification tasks, to achieve accurate detection.
